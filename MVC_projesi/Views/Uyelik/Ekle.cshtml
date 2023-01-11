@@ -1,0 +1,53 @@
+﻿
+
+@{ ViewBag.Title = "Üyelik Ekle"; }
+@using KutuphaneProgrami.Data.Model
+@model List<Uye>
+
+<h2>ÜYELİK EKLE</h2>
+
+<script src="~/Scriptler/Main.js"></script>
+
+<form class="form-horizontal">
+
+    <div class="form-group">
+        <label class="col-md-12">  Ad Soyad </label>
+        <div class="col-md-12">
+            <select id="uyeId">
+                @foreach (var uye in Model)
+                {
+                    <option value="@uye.Id">@uye.Ad @uye.Soyad</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-12">  Mail </label>
+        <div class="col-md-12">
+            <input id="mail" type="text" class="form-control" placeholder="Mail Giriniz">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-12">  Parola  </label>
+        <div class="col-md-12">
+            <input id="parola" type="password" class="form-control" placeholder="Parolayı Giriniz">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-12">  Parola (Tekrar) </label>
+        <div class="col-md-12">
+            <input id="parolaTekrar" type="password" class="form-control" placeholder="Parolayı(Tekrar) Giriniz">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            <input type="button" id="uyelikEkle" class="btn btn-block btn-info" value="Kaydet">
+        </div>
+    </div>
+
+
+</form>

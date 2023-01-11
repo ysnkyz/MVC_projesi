@@ -1,0 +1,56 @@
+﻿
+
+
+
+@{ ViewBag.Title = "Profil Bilgilerim"; }
+@using KutuphaneProgrami.Data.Model
+@model Uye
+
+<h2>PROFİL BİLGİLERİM</h2>
+
+<script src="~/Scriptler/Main.js"></script>
+
+<form class="form-horizontal">
+
+    <div class="form-group">
+        <label class="col-md-12">  Ad Soyad </label>
+        <div class="col-md-12">
+            <span>@Model.Ad @Model.Soyad</span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-12">  Tel </label>
+        <div class="col-md-12">
+            <input id="tel" value="@Model.Telefon" type="tel" class="form-control" placeholder="Telefon No Giriniz">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-12">  Mail </label>
+        <div class="col-md-12">
+            <input id="mail" value="@Model.Mail" type="text" class="form-control" placeholder="Mail Giriniz">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-12">  Parola  </label>
+        <div class="col-md-12">
+            <input id="parola" type="password" class="form-control" placeholder="Parolayı Giriniz">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-12">  Parola (Tekrar) </label>
+        <div class="col-md-12">
+            <input id="parolaTekrar" type="password" class="form-control" placeholder="Parolayı(Tekrar) Giriniz">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-12">
+            <input type="button" id="profilBilgiGuncelle" class="btn btn-block btn-info" value="Kaydet">
+        </div>
+    </div>
+
+
+</form>

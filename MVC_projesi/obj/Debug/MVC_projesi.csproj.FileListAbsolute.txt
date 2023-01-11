@@ -1,0 +1,770 @@
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\MVC_projesi.dll.config
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\MVC_projesi.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\MVC_projesi.pdb
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\csc.exe
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\csc.exe.config
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\csc.rsp
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\csi.exe
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\csi.exe.config
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\csi.rsp
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.AppContext.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Console.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\vbc.exe
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\vbc.exe.config
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\vbc.rsp
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Helpers.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Mvc.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Razor.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Razor.xml
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.xml
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Helpers.xml
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\System.Web.Mvc.xml
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csprojAssemblyReference.cache
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csproj.CoreCompileInputs.cache
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csproj.CopyComplete
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.pdb
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\EntityFramework.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.Model.dll
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.Model.pdb
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.pdb
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.dll.config
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\EntityFramework.xml
+C:\Users\vlike\source\repos\MVC_projesi\MVC_projesi\bin\EntityFramework.SqlServer.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\MVC_projesi.dll.config
+C:\Projeler\MVC_projesi\MVC_projesi\bin\MVC_projesi.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\MVC_projesi.pdb
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\csc.exe
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\csc.exe.config
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\csc.rsp
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\csi.exe
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\csi.exe.config
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\csi.rsp
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.AppContext.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Console.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Compression.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Pipes.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Claims.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.ValueTuple.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\vbc.exe
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\vbc.exe.config
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\vbc.rsp
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\VBCSCompiler.exe
+C:\Projeler\MVC_projesi\MVC_projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Projeler\MVC_projesi\MVC_projesi\bin\EntityFramework.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\EntityFramework.SqlServer.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.Model.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Helpers.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Mvc.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Razor.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Deployment.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Razor.dll
+C:\Projeler\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.Model.pdb
+C:\Projeler\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.pdb
+C:\Projeler\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.dll.config
+C:\Projeler\MVC_projesi\MVC_projesi\bin\EntityFramework.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\EntityFramework.SqlServer.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Razor.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Deployment.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Razor.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Helpers.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\System.Web.Mvc.xml
+C:\Projeler\MVC_projesi\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projeler\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csprojAssemblyReference.cache
+C:\Projeler\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csproj.CoreCompileInputs.cache
+C:\Projeler\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csproj.CopyComplete
+C:\Projeler\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.dll
+C:\Projeler\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.pdb
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\MVC_projesi.dll.config
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\MVC_projesi.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\MVC_projesi.pdb
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\csc.exe
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\csc.exe.config
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\csc.rsp
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\csi.exe
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\csi.exe.config
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\csi.rsp
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.AppContext.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Console.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.IO.Compression.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.IO.Pipes.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Security.AccessControl.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Security.Claims.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.ValueTuple.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Xml.XPath.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\vbc.exe
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\vbc.exe.config
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\vbc.rsp
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\VBCSCompiler.exe
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\EntityFramework.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\EntityFramework.SqlServer.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\KutuphaneProgrami.Data.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\KutuphaneProgrami.Data.Model.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Helpers.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Mvc.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Razor.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Webpages.Deployment.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Webpages.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Webpages.Razor.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\KutuphaneProgrami.Data.Model.pdb
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\KutuphaneProgrami.Data.pdb
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\KutuphaneProgrami.Data.dll.config
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\EntityFramework.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\EntityFramework.SqlServer.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Razor.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Webpages.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Webpages.Deployment.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Webpages.Razor.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Helpers.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\System.Web.Mvc.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\obj\Debug\MVC_projesi.csproj.AssemblyReference.cache
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\obj\Debug\MVC_projesi.csproj.CoreCompileInputs.cache
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\obj\Debug\MVC_projesi.csproj.CopyComplete
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\obj\Debug\MVC_projesi.dll
+C:\MVC_projesi-master\MVC_projesi-master\MVC_projesi\obj\Debug\MVC_projesi.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\MVC_projesi.dll.config
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\MVC_projesi.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\MVC_projesi.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\csc.exe
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\csc.exe.config
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\csc.rsp
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\csi.exe
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\csi.exe.config
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\csi.rsp
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.AppContext.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Console.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\vbc.exe
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\vbc.exe.config
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\vbc.rsp
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\netstandard.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.AppContext.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Collections.Concurrent.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Collections.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Collections.NonGeneric.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Collections.Specialized.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.ComponentModel.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.ComponentModel.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Console.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Data.Common.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.Contracts.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.Debug.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.Process.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.Tools.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.Tracing.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Drawing.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Dynamic.Runtime.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Globalization.Calendars.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Globalization.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Globalization.Extensions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.Compression.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.FileSystem.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.IsolatedStorage.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.Pipes.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Linq.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Linq.Expressions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Linq.Parallel.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Linq.Queryable.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.Http.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.NameResolution.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.NetworkInformation.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.Ping.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.Requests.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.Security.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.Sockets.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.WebSockets.Client.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Net.WebSockets.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.ObjectModel.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Reflection.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Reflection.Extensions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Reflection.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Resources.Reader.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Resources.ResourceManager.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Resources.Writer.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.Extensions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.Handles.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.InteropServices.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.Numerics.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Security.Claims.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Security.Principal.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Security.SecureString.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Text.Encoding.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Text.RegularExpressions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.Overlapped.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.Tasks.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.Thread.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.ThreadPool.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.Timer.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Xml.ReaderWriter.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Xml.XDocument.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Xml.XmlDocument.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Xml.XmlSerializer.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Xml.XPath.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Common.Logging.Core.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Common.Logging.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\EntityFramework.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\JetBrains.Annotations.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\KutuphaneProgrami.Data.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\KutuphaneProgrami.Data.Model.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Options.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.AsyncEx.Context.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.AsyncEx.Coordination.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.AsyncEx.Tasks.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.Collections.Deque.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.Disposables.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Quartz.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Buffers.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Collections.Immutable.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.ComponentModel.Annotations.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Linq.Dynamic.Core.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Memory.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Numerics.Vectors.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.Loader.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Text.Encodings.Web.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Text.Json.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.ValueTuple.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Helpers.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Mvc.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Razor.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Webpages.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\TimeZoneConverter.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Volo.Abp.Core.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\KutuphaneProgrami.Data.Model.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\KutuphaneProgrami.Data.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\KutuphaneProgrami.Data.dll.config
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Common.Logging.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Common.Logging.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Common.Logging.Core.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Common.Logging.Core.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\EntityFramework.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\JetBrains.Annotations.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Options.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.AsyncEx.Context.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.AsyncEx.Coordination.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.AsyncEx.Tasks.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.Collections.Deque.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Nito.Disposables.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Quartz.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Quartz.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Buffers.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Collections.Immutable.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Linq.Dynamic.Core.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Linq.Dynamic.Core.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Memory.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Numerics.Vectors.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Text.Encodings.Web.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Text.Json.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.ValueTuple.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\TimeZoneConverter.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Volo.Abp.Core.pdb
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Volo.Abp.Core.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Razor.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Webpages.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Helpers.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\System.Web.Mvc.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\obj\Debug\MVC_projesi.csproj.AssemblyReference.cache
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\obj\Debug\MVC_projesi.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\obj\Debug\MVC_projesi.csproj.CopyComplete
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\obj\Debug\MVC_projesi.dll
+C:\Users\Yasin Akyüz\Desktop\MVC_projesi-master-main\MVC_projesi-master-main\MVC_projesi\obj\Debug\MVC_projesi.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\MVC_projesi.dll.config
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\MVC_projesi.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\MVC_projesi.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\csc.exe
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\csc.exe.config
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\csc.rsp
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\csi.exe
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\csi.exe.config
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\csi.rsp
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.AppContext.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Console.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Compression.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.IO.Pipes.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Claims.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.ValueTuple.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\vbc.exe
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\vbc.exe.config
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\vbc.rsp
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\VBCSCompiler.exe
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Win32.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\netstandard.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.AppContext.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Collections.Concurrent.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Collections.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Collections.NonGeneric.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Collections.Specialized.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.ComponentModel.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.ComponentModel.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.ComponentModel.TypeConverter.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Console.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Data.Common.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.Contracts.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.Debug.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.Process.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.StackTrace.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.Tools.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.TraceSource.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.Tracing.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Drawing.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Dynamic.Runtime.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Globalization.Calendars.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Globalization.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Globalization.Extensions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.Compression.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.Compression.ZipFile.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.FileSystem.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.FileSystem.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.FileSystem.Watcher.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.IsolatedStorage.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.MemoryMappedFiles.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.Pipes.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Linq.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Linq.Expressions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Linq.Parallel.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Linq.Queryable.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.Http.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.NameResolution.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.NetworkInformation.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.Ping.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.Requests.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.Security.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.Sockets.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.WebHeaderCollection.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.WebSockets.Client.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Net.WebSockets.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.ObjectModel.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Reflection.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Reflection.Extensions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Reflection.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Resources.Reader.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Resources.ResourceManager.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Resources.Writer.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.Extensions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.Handles.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.InteropServices.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.Numerics.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.Serialization.Json.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.Serialization.Xml.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Security.Claims.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Security.Cryptography.Csp.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Security.Cryptography.Encoding.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Security.Cryptography.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Security.Principal.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Security.SecureString.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Text.Encoding.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Text.Encoding.Extensions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Text.RegularExpressions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.Overlapped.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.Tasks.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.Tasks.Parallel.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.Thread.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.ThreadPool.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.Timer.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Xml.ReaderWriter.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Xml.XDocument.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Xml.XmlDocument.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Xml.XmlSerializer.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Xml.XPath.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Xml.XPath.XDocument.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Common.Logging.Core.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Common.Logging.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\EntityFramework.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\EntityFramework.SqlServer.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\JetBrains.Annotations.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.Model.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Localization.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Logging.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Options.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Primitives.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.AsyncEx.Context.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.AsyncEx.Coordination.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.AsyncEx.Tasks.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.Collections.Deque.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.Disposables.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Quartz.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Buffers.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Collections.Immutable.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.ComponentModel.Annotations.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Linq.Dynamic.Core.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Memory.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Numerics.Vectors.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.Loader.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Text.Encodings.Web.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Text.Json.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.Tasks.Extensions.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.ValueTuple.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Helpers.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Mvc.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Razor.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Deployment.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Razor.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\TimeZoneConverter.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Volo.Abp.Core.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.Model.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\KutuphaneProgrami.Data.dll.config
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Common.Logging.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Common.Logging.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Common.Logging.Core.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Common.Logging.Core.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\EntityFramework.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\EntityFramework.SqlServer.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\JetBrains.Annotations.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Localization.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Logging.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Options.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.Extensions.Primitives.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.AsyncEx.Context.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.AsyncEx.Coordination.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.AsyncEx.Tasks.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.Collections.Deque.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Nito.Disposables.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Quartz.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Quartz.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Buffers.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Collections.Immutable.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Linq.Dynamic.Core.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Linq.Dynamic.Core.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Memory.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Numerics.Vectors.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Text.Encodings.Web.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Text.Json.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Threading.Tasks.Extensions.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.ValueTuple.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\TimeZoneConverter.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Volo.Abp.Core.pdb
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Volo.Abp.Core.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Razor.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Deployment.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Webpages.Razor.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Helpers.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\System.Web.Mvc.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Github_Proje\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csproj.AssemblyReference.cache
+C:\Github_Proje\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csproj.CoreCompileInputs.cache
+C:\Github_Proje\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.csproj.CopyComplete
+C:\Github_Proje\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.dll
+C:\Github_Proje\MVC_projesi\MVC_projesi\obj\Debug\MVC_projesi.pdb
